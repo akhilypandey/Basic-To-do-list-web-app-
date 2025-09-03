@@ -1,4 +1,3 @@
-# Basic-To-do-list-web-app-
 # Simple To-Do List Application
 
 A clean, modern, and feature-rich To-Do List application built entirely with HTML, CSS, and vanilla JavaScript. This project demonstrates fundamental web development concepts, including DOM manipulation, event handling, and local storage for data persistence.
